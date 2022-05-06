@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **kaungnaylinkhant@gmail.com**
 
-- ⚡ Fun fact **I wish I have immortality so I can seek every piece of knowledge.**
-
 ![YatoAki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatoaki&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatoaki&layout=compact&theme=dark)
