@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YatoAki/Kaung Nay Lin Khant</h1>
 <h3 align="center">A developer who is Enthusiastic about Software Development</h3>
 
-- 🌱 I’m currently learning **Full Stack Development with Ruby on Rails**
+- 🌱 I’m currently learning **Full Stack Development with JavaScript**
 
 - 💬 Ask me about **Competitive Programming, Data Structure & Algorithm**
 
