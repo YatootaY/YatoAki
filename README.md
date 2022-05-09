@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **kaungnaylinkhant@gmail.com**
 
-![YatoAki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatoaki&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatoaki&layout=compact&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
