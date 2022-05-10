@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kaungnaylinkhant@gmail.com**
 
-- ⚡ Fun fact, I love Ruby Programming so much. Everything is an object! If that is not heaven, I don't know what is.
+- ⚡ Fun fact **I love Ruby Programming so much. Everything is an object! If that is not heaven, I don't know what is.**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatoaki&layout=compact&theme=dark)
 
