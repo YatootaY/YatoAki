@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YatoAki/Kaung Nay Lin Khant</h1>
+<h1 align="center">Hi 👋, I'm Yato/Kaung Nay Lin Khant</h1>
 <h3 align="center">A developer who is Enthusiastic about Software Development</h3>
 
 ## 💫About Me :
