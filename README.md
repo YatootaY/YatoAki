@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **kaungnaylinkhant@gmail.com**
 
-- ⚡ Fun fact **I love Ruby Programming so much. Everything is an object!**
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaung-nay-lin-khant-3303021b2) 
